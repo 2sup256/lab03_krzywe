@@ -1,1 +1,2 @@
-# lab03_krzywe
+# Lab03
+Edytor krzywych beziera.
